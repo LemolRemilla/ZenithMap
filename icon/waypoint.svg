@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="waypoint.svg"
+   inkscape:export-filename="C:\Users\Asatsuki256\Documents\Personal\Data\zenith_map\repo\ZenithMap\icon\waypoint.png"
+   inkscape:export-xdpi="72.000008"
+   inkscape:export-ydpi="72.000008"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     units="px"
+     inkscape:zoom="8.3856039"
+     inkscape:cx="10.315298"
+     inkscape:cy="39.055028"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824"
+       originx="0"
+       originy="0"
+       empspacing="8" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1020"
+       style="fill:#4597d0;fill-opacity:1;fill-rule:evenodd;stroke:#244b66;stroke-width:0.26458334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 8.4666667,14.816667 c 0,0 -4.2333331,-6.128661 -4.2333331,-8.4666666 0,-2.3380056 1.895328,-4.2333336 4.2333336,-4.2333336 2.3380058,-10e-8 4.2333338,1.8953279 4.2333338,4.2333336 0,2.3380057 -4.2333343,8.4666666 -4.2333343,8.4666666"
+       sodipodi:nodetypes="csssc" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#366f99;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path18266"
+       cx="8.4666672"
+       cy="6.3500004"
+       r="2.1166668" />
+  </g>
+</svg>

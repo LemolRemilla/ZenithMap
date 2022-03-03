@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-HTF14YJBDQ"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-HTF14YJBDQ');
+        </script>
+
+        <meta charset="UTF-8">
+        <title>Zenith Map Viewer</title>
+
+        <!-- Leaflet -->
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="" />
+        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+        <!-- jQuery -->
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+        <!-- UUID -->
+        <script src="./js/UUID.js"></script>
+        <!-- Dexie -->
+        <script src="https://unpkg.com/dexie@latest/dist/dexie.js"></script>
+        <!-- polyglot.js-->
+        <script src="./js/polyglot.js"></script>
+        <!-- Font Awesome -->
+        <script src="https://kit.fontawesome.com/64b0d55ffa.js" crossorigin="anonymous"></script>
+        <!-- plugins -->
+        <link rel="stylesheet" href='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css' rel='stylesheet' />
+        <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js'></script>
+        
+        <link rel="stylesheet" href="./css/Leaflet.Coordinates-0.1.5.css" />
+        <script src="./js/Leaflet.Coordinates-0.1.5.src.js"></script>
+        
+        <script src="./js/leaflet.tilelayer.fallback.js"></script>
+        
+        <link rel="stylesheet" href="./css/leaflet.legend.css" />
+        <script src="./js/leaflet.legend.js"></script>
+
+        <link rel="stylesheet" href="./css/leaflet.contextmenu.css" />
+        <script src="./js/leaflet.contextmenu.js"></script>
+
+        <link rel="stylesheet" href="./css/leaflet-notifications.min.css" />
+        <script src="./js/leaflet-notifications.min.js"></script>
+
+        <link rel="stylesheet" href="./css/L.Control.Window.css" />
+        <script src="./js/L.Control.Window.js"></script>
+
+        <link rel="stylesheet" href="./css/easy-button.css" />
+        <script src="./js/easy-button.js"></script>
+        <!-- main -->
+        <link rel="stylesheet" href="./css/main.css" />
+        <script src="./js/main.js"></script>
+        <!-- favicon -->
+        <link rel="icon" href="favicon.ico">
+        
+    </head>
+    <body onload="init()">
+        <div id="map"></div>
+    </body>
+</html>

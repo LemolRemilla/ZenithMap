@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4724,4293 ]
+   },
+   "properties": {
+   "name":"Ixxil the Devourer",
+   "lvl":6,
+   "type":"Naga"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 5612,4880 ]
+   },
+   "properties": {
+   "name":"Mistress of Misery",
+   "lvl":18,
+   "type":"Amarite"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 6488,5641 ]
+   },
+   "properties": {
+   "name":"Reevu the Devourer",
+   "lvl":19,
+   "type":"Essence Wolf"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 5617,3627 ]
+   },
+   "properties": {
+   "name":"Quarry Master Oruk",
+   "lvl":20,
+   "type":"Banshee"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 3828,1985 ]
+   },
+   "properties": {
+   "name":"Shark Pirate",
+   "lvl":24,
+   "type":"Shark Pirate"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 7189,1853 ]
+   },
+   "properties": {
+   "name":"Ichiro",
+   "lvl":29,
+   "type":"Shark Pirate"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 9242,1512 ]
+   },
+   "properties": {
+   "name":"Adherent Zan",
+   "lvl":30,
+   "type":"Cultist"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 8767,1979 ]
+   },
+   "properties": {
+   "name":"Boatswain Finn",
+   "lvl":32,
+   "type":"Shark Pirate"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 8759,2217 ]
+   },
+   "properties": {
+   "name":"Pirate King Kaibro",
+   "lvl":32,
+   "type":"Shark Pirate"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 9952,3682 ]
+   },
+   "properties": {
+   "name":"Ergon the Cruel",
+   "lvl":32,
+   "type":"Naga"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 10529,3765 ]
+   },
+   "properties": {
+   "name":"Ivnyl the Tyrant",
+   "lvl":35,
+   "type":"Naga"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 12822,5002 ]
+   },
+   "properties": {
+   "name":"Dredge Thunderfoot",
+   "lvl":40,
+   "type":"Giant"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 12445,5235 ]
+   },
+   "properties": {
+   "name":"Invictux the Corruptor",
+   "lvl":40,
+   "type":"Naga"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 10780,5482 ]
+   },
+   "properties": {
+   "name":"Darian",
+   "lvl":41,
+   "type":"Cultist"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 10366,5702 ]
+   },
+   "properties": {
+   "name":"Gamore",
+   "lvl":41,
+   "type":"Cultist"
+   }
+ }
+]
+}

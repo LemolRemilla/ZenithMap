@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 503,4496 ]
+   },
+   "properties": {
+   "name":"The Underside"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 1504,4553 ]
+   },
+   "properties": {
+   "name":"Brimm's Tavern"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 2310,3570 ]
+   },
+   "properties": {
+   "name":"Nexus District"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 3431,4818 ]
+   },
+   "properties": {
+   "name":"Galian Valley"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 2588,7510 ]
+   },
+   "properties": {
+   "name":"Amarite Forest"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 3754,7302 ]
+   },
+   "properties": {
+   "name":"Scarlet Vale"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 5405,5220 ]
+   },
+   "properties": {
+   "name":"Sporewood"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 6266,3585 ]
+   },
+   "properties": {
+   "name":"Obsidian Fortress"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 7555,3752 ]
+   },
+   "properties": {
+   "name":"Skysong Summit"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4019,2374 ]
+   },
+   "properties": {
+   "name":"Radiant Coast"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 6330,1174 ]
+   },
+   "properties": {
+   "name":"Turtle Top"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 8925,1207 ]
+   },
+   "properties": {
+   "name":"Tangled Cove"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 11056,2167 ]
+   },
+   "properties": {
+   "name":"The Ramshackle"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 12038,3414 ]
+   },
+   "properties": {
+   "name":"Emerald Desert"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 12528,5549 ]
+   },
+   "properties": {
+   "name":"Queen's Path"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 11236,5982 ]
+   },
+   "properties": {
+   "name":"Ruler's Reach"
+   }
+ }
+]
+}

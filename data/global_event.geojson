@@ -1,0 +1,346 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 3370,7210 ]
+   },
+   "properties": {
+   "name":"Skirmish - Ravenous Beasts",
+   "zone":"Amarite Forest"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 3078,6903 ]
+   },
+   "properties": {
+   "name":"Skirmish - Run on the Temple",
+   "zone":"Amarite Forest"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 12173,2981 ]
+   },
+   "properties": {
+   "name":"Skirmish - Fallen Effigy",
+   "zone":"Emerald Desert"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 3284,3870 ]
+   },
+   "properties": {
+   "name":"Skirmish - Broken Farms",
+   "zone":"Fractured Plains"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 3510,3084 ]
+   },
+   "properties": {
+   "name":"Skirmish - Training Ground",
+   "zone":"Fractured Plains"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 3707,4445 ]
+   },
+   "properties": {
+   "name":"Skirmish - The Fields",
+   "zone":"Fractured Plains"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4112,4450 ]
+   },
+   "properties": {
+   "name":"Reclaim Blossom Village",
+   "zone":"Fractured Plains"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4624,3822 ]
+   },
+   "properties": {
+   "name":"Skirmish - Excavation",
+   "zone":"Fractured Plains"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4256,3222 ]
+   },
+   "properties": {
+   "name":"Elite Skirmish - Farmland Frenzy",
+   "zone":"Fractured Plains"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4078,5123 ]
+   },
+   "properties": {
+   "name":"Skirmish - Windmill Warband",
+   "zone":"Galian Valley"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 3057,5428 ]
+   },
+   "properties": {
+   "name":"Invasion - The Dead King's Return",
+   "zone":"Galian Valley"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 5671,3753 ]
+   },
+   "properties": {
+   "name":"Leyline Lament",
+   "zone":"Obsidian Fortress"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 12168,6167 ]
+   },
+   "properties": {
+   "name":"Defend - Ritual on the Blazing Steppes",
+   "zone":"Queen's Path"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 13062,5436 ]
+   },
+   "properties": {
+   "name":"Skirmish - Spawning Grounds",
+   "zone":"Queen's Path"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4077,1892 ]
+   },
+   "properties": {
+   "name":"Defend - Buccaneer Battlefront",
+   "zone":"Radiant Coast"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 9840,5494 ]
+   },
+   "properties": {
+   "name":"Skirmish - Giant Takedown",
+   "zone":"Ruler's Reach"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 9687,5739 ]
+   },
+   "properties": {
+   "name":"Summoning Ritual",
+   "zone":"Ruler's Reach"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 10086,6097 ]
+   },
+   "properties": {
+   "name":"Invasion - Onslaught of Evil",
+   "zone":"Ruler's Reach"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 10478,6012 ]
+   },
+   "properties": {
+   "name":"Invasion - Manifestation of Despair",
+   "zone":"Ruler's Reach"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 9199,6178 ]
+   },
+   "properties": {
+   "name":"World Boss - Arboruht",
+   "zone":"Ruler's Reach"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 10553,5401 ]
+   },
+   "properties": {
+   "name":"Skirmish - Dwells Beneath",
+   "zone":"Ruler's Reach"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 3786,6657 ]
+   },
+   "properties": {
+   "name":"Skirmish - Ambush In The City",
+   "zone":"Scarlet Vale"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4970,7854 ]
+   },
+   "properties": {
+   "name":"Skirmish - Animal Control",
+   "zone":"Scarlet Vale"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 5611,5728 ]
+   },
+   "properties": {
+   "name":"Skirmish - Uprooted",
+   "zone":"Sporewood"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 8576,1052 ]
+   },
+   "properties": {
+   "name":"Skirmish - Primal Magic",
+   "zone":"Tangled Cove"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 10368,2228 ]
+   },
+   "properties": {
+   "name":"Skirmish - Revenge Of The Sylphids",
+   "zone":"The Ramshackle"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 10252,3488 ]
+   },
+   "properties": {
+   "name":"Skirmish - Taskmaster Takedown",
+   "zone":"The Ramshackle"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 83,4095 ]
+   },
+   "properties": {
+   "name":"Skirmish - Pest Control",
+   "zone":"The Underside"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 6237,2162 ]
+   },
+   "properties": {
+   "name":"Collect - Gather Pirate Booty",
+   "zone":"Turtle Top"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 6707,3748 ]
+   },
+   "properties": {
+   "name":"Boss - Cult Leader (Group Event)",
+   "zone":"Obsidian Fortress"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 7750,3364 ]
+   },
+   "properties": {
+   "name":"Trial of the Triad",
+   "zone":"Skysong Summit"
+   }
+ }
+]
+}
