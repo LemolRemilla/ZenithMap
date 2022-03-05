@@ -35,6 +35,16 @@
    "type": "Feature",
    "geometry": {
       "type": "Point",
+      "coordinates":  [ 3408,3506 ]
+   },
+   "properties": {
+   "name":"Fractured Plains"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
       "coordinates":  [ 3431,4818 ]
    },
    "properties": {

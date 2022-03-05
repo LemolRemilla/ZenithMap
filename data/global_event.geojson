@@ -341,6 +341,39 @@
    "name":"Trial of the Triad",
    "zone":"Skysong Summit"
    }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 5557,5421 ]
+   },
+   "properties": {
+   "name":"Skirmish - Rivu At The River",
+   "zone":"Sporewood"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 6589,1056 ]
+   },
+   "properties": {
+   "name":"Defend - Shellshocked",
+   "zone":"Turtle Top"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 9602,6124 ]
+   },
+   "properties": {
+   "name":"Invasion - Sidion's Harbinger",
+   "zone":"Ruler's Reach"
+   }
  }
 ]
 }
