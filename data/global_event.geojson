@@ -374,6 +374,28 @@
    "name":"Invasion - Sidion's Harbinger",
    "zone":"Ruler's Reach"
    }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 8764,3574 ]
+   },
+   "properties": {
+   "name":"Stone Sentinels",
+   "zone":"Skysong Summit"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 8320,3714 ]
+   },
+   "properties": {
+   "name":"Boss - Banecaller (Group Event)",
+   "zone":"Skysong Summit"
+   }
  }
 ]
 }
