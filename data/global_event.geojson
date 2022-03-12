@@ -396,6 +396,17 @@
    "name":"Boss - Banecaller (Group Event)",
    "zone":"Skysong Summit"
    }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 3866,3684 ]
+   },
+   "properties": {
+   "name":"Defend - Sylphid Attack",
+   "zone":"Fractured Plains"
+   }
  }
 ]
 }
