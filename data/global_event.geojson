@@ -407,6 +407,94 @@
    "name":"Defend - Sylphid Attack",
    "zone":"Fractured Plains"
    }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 6048,5322 ]
+   },
+   "properties": {
+   "name":"Boss - Nosyf (Group Event)",
+   "zone":"Sporewood"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 4810,7615 ]
+   },
+   "properties": {
+   "name":"Skirmish - Take Back The Crystal",
+   "zone":"Scarlet Vale"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 5412,7476 ]
+   },
+   "properties": {
+   "name":"Boss - Deadwood",
+   "zone":"Scarlet Vale"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 2959,5457 ]
+   },
+   "properties": {
+   "name":"Invation - An Old Kingdom Rises",
+   "zone":"Galian Valley"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 2813,5397 ]
+   },
+   "properties": {
+   "name":"Invation - Ambition's Downfall",
+   "zone":"Galian Valley"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 6678,629 ]
+   },
+   "properties": {
+   "name":"Collect - Gather Ship Parts",
+   "zone":"Turtle Top"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 3544,6101 ]
+   },
+   "properties": {
+   "name":"Boss - Wandering Giant",
+   "zone":"Galian Valley"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 3244,6068 ]
+   },
+   "properties": {
+   "name":"Skirmish - Galian Village",
+   "zone":"Galian Valley"
+   }
  }
 ]
 }
